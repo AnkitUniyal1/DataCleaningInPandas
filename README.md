@@ -37,7 +37,7 @@ At the end of the notebook, the dataset was cleaned and ready for further analys
 ## 🌄 Screenshots
 
 ### 🔍 Before Cleaning
-![Before Cleaning](imageBefore.png)
+![Before Cleaning](image/Before.png)
 
 ### 🧼 After Cleaning
 ![After Cleaning](image/After.png)
